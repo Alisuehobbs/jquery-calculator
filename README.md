@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Alisuehobbs/jquery-calculator.png?columns=all)](https://waffle.io/Alisuehobbs/jquery-calculator?utm_source=badge)
 # jQuery Calculator
 
 Use jQuery to build a basic calculator using the provided HTML and CSS.
